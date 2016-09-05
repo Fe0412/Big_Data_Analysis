@@ -1,0 +1,23 @@
+Implement a stock prediction system. The result is:
+BAC   13.43476071
+C     42.71825696
+IBM   141.7827791
+AAPL  102.8880983
+GE    30.35825424
+T     38.12094374
+MCD   120.1366339
+NKE   58.95941034
+TWTR  17,48233709
+TSLA  204.3203444
+
+and the actual value of that day is:
+BAC   13.44
+C     42.27
+IBM   141.73	
+AAPL  102.24
+GE    30.14	
+T     38.45	
+MCD   120.49	
+NKE   59.13	
+TWTR  16.77	
+TSLA  207.93	
