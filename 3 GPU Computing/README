@@ -1,0 +1,3 @@
+Choose 2 of the algorithms, matrix multiplication and linear regression Convert them into a GPU version.
+Show performance measurement comparing to non-GPU version.
+For multiplying matrix, for a 6000*6000 matrix, the total time of CPU is 23.146s while that of GPU is 1.612s
