@@ -1,0 +1,17 @@
+1.	Introduction
+At the heart of many health care industry debates is what to do about data: how to realize its value for quality care, bending the cost curve, how to share it and how to secure it. Health care providers face significant obstacles in implementing analytics, tools and data warehousing.
+Using a user's individual health data, create a means to project total estimated healthcare costs throughout his/her lifetime. What’s more, based on the features including cost, number of procedures, and other metrics such as re_admission rate and hospital quality, we would make a strategic decision for choosing the appropriate hospital in New York States for each patient.
+
+2.	Language and code 
+We will use Python including Data Analysis Library Pandas, running on Spark engine
+combine SQL analytics. The computing way will base on GPU programming.
+
+API: 
+Rhine : Rhine is an API that allows you to build applications that understand the relationships between people, places, adn things. 
+Maps API: Create public maps out of private data, create static maps for embedding on websites or printing.
+
+3.	Data source
+NY state Department of Health https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/u4ud-w55t  
+United States Census 
+http://www.census.gov/econ/isp/sampler.php?naicscode=62&naicslevel=2
+
